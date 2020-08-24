@@ -1,4 +1,4 @@
-This project is for e5470 but since every intel is likely the same you could use it like mine.
+This project is for e5470 but since every dell laptop is likely the same you could use it like mine.
 
 Dell latidue e5470:
 - Cpu: i5 6300u
