@@ -22,8 +22,11 @@ Every apci hot patch is from original dell e5570 from @Mateo, i just delete and 
 
 
 credit:
+
 Mateo1234454545
+
 zxystd 
+
 acidanthera
 
 
