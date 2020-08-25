@@ -20,6 +20,7 @@ I also install some very interesting kext called itlwm(use it with Heliport, it 
 
 Every apci hot patch is from original dell e5570 from @Mateo, i just delete and update some kext and keep testing until i got it works just right, so if yours doesn't work properly please trying another way or google it, apci is very complicated and i have no idea how to make it works either. 
 
+* Remember to put your own smbios in config.plist
 
 credit:
 
