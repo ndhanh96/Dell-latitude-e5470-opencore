@@ -13,6 +13,11 @@ Things work:
 - webcam/sound
 - bluetooth 
 
+- add acpi-wake-type, if you found your computer have different pci adress then change it according to this guide: 
+
+https://dortania.github.io/OpenCore-Post-Install/usb/misc/keyboard.html#method-1-add-wake-type-property-recommended
+
+
 Not working:
 - i don't know, haven't tested everything since i forked this for fun.
 
