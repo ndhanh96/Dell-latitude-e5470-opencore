@@ -29,7 +29,7 @@ Every apci hot patch is from original dell e5570 from @Mateo, i just delete and 
 
 credit:
 
-Mateo1234454545
+Mateo1234454545 [https://github.com/Mateo1234454545/DELL-5570-Hackintosh]
 
 zxystd 
 
